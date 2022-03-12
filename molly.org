@@ -1,0 +1,8 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* Death Appears
+As you wearily rise and dust yourself off, you realize that it's much later than you thought. Everything's dark - even the streetlights. That probably isn't good.
+
+A grey mist rises in the darkness, then coalesces into a towering hooded figure. The figure leans over you. Its hood obscures its features in shadow, and you can only barely glimpse something pale - maybe skeletal - within.
+
+IT IS TIME, it utters.
