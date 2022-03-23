@@ -61,20 +61,57 @@ If you decide to get a job, Reveal card [[Getting a Job]].
 If you decide to survey your house for things to sell, Reveal card [[House Survey]].
 If you decide to instead raid the local county office, Reveal card [[Raiding the Office]].
 
-* TODO The Market
+* The Market
 ** House Survey
-You look through the house. Most things in the house are in various states of decay. You could say they have a sort of sentimental value. Unfortunately they likely wouldn't sell. There is the brooch on the mantelpiece that has been there as long as you can remember. You aren't even sure when you got that. Or how. It's got a gorgeous Emerald gem inset in silver. It would probably fetch a good price. You palm it and look it over. There's a named etched on the back, but it shouldn't affect its price.
+You look through your house. Most things here are in various states of decay. You could say they have a sort of sentimental value. Unfortunately they likely wouldn't sell. There is the brooch on the mantelpiece that has been there as long as you can remember. You aren't even sure when you got that. Or how. It's got a gorgeous Emerald gem inset in silver. It would probably fetch a good price. You palm it and look it over. There's your name etched on the back, in what looks like a large dent, but it shouldn't affect its price.
 
 You walk up to a jewelry vendor. Looking you in the eyes, they stand up and throw off their hat. "YOU!" they shout. Oh. It's the person who was in front of your house before. "Here to haunt me are you? Well just come and try it, I'm ready for you this time."
 
 Reveal card [[Second Fight Goals]].
-If you win this match, Reveal card [[Market Win]].
-If you lose, Reveal card [[Market Loss]].
+If you win this match, Reveal card [[Sold]].
+If you lose, Reveal card [[Dropped It]].
 
-** Market Win
+** Sold
+Surprising they never seem to learn, ghosts don't die. You didn't knock them out,
+after all they are the jeweler. Instead giving your most ghastly voice you utters something like,
+"The customer is always right," and they remember their better merchant instincts. You manage to sell them
+the trinket for exactly the $500 you were hoping. You even managed to convince them to throw in something extra
+for your troubles having to beat them up.
 
-** Market Loss
+You decide to head to the local office to see if you can pay off your house's debt.
+Reveal [[Five Hundred Dollars]]
+Reveal [[Cloth]]
+Reveal [[Death Appears]]
 
+** Ripped Off
+Whew, that was a rush! You may have beaten them, but it was not as close as you would have liked.
+Right when it seemed like you might have breathed your last metaphorical breath, you reminded them that
+this is no way to treat a customer. Begrudgingly they got back behind their stand and checked out your
+brooch. "This is just a piece of junk. I can tell this is not a real gem, and it has this massive dent from
+what looks like a bullet in the back. Most I can give you is $300."
+
+You suspect deceit, but you don't really have an alternative so you take it, and hope it's enough.
+You make your way to the local office to try and pay.
+Reveal [[Three Hundred Dollars]]
+Reveal [[Death Appears]]
+
+** Dropped It
+That fight was not quite what you were hoping. At the last minute you slipped away but, you can't seem to find your brooch anywhere!
+There's not much you can do at this point, you could have lost it more or less anywhere along the major street and people have been
+giving you stares ever since you started assaulting that merchant. Reluctantly you make your way home to think of an alternative plan.
+
+Reveal [[Death Appears]]
+
+** Trounced
+Now that hurt! Not only did you get wailed on, but then they took your gem! That was clearly no ordinary merchant,
+and it seemed like they had planned this in advance, since they fled their stand leaving all their other jewelry behind.
+It probably would have fetched a great price, if it was that much more valuable...
+
+There's not much you can do, so you decide to return home to think about how to proceed.
+Your opponent Reveals card [[Has Gem Brooch]]
+You Reveal [[Death Appears]]
+
+* Suggested cards From D
 ** Time is Money
 YOUR LAST ANCHOR IN THE WORLD OF THE LIVING HAS BEEN LOST. BID YOUR LAST FAREWELL, AND FOLLOW ME...
 
@@ -91,17 +128,6 @@ If you just ignore them, (card instruction: Battle With The Ferryman).
 If you lose, Bad End: Paradise
 If you win and have _no cards matching some condition_ you may *Price Check*
 Otherwise *Tax Office*.
-
-** Pay the Toll
-YOUR LAST ANCHOR IN THE WORLD OF THE LIVING HAS BEEN LOST. BID YOUR LAST FAREWELL, AND FOLLOW ME...
-
-The figure extends one hand. Its cloak is apparently oversized, as its hand remains covered by its sleeve.
-
-Oh, the figure must be some kind of tour guide, and the extended hand is waiting for payment. You think. The silence is geting a bit uncomfortable.
-
-If you have [Weaver] in your effect area, you may (card instruction: Lend A Hand).
-If you take the stranger's hand, (card instruction: Battle For Your Soul).
-If you just ignore them, (card instruction: Battle With The Ferryman).
 
 ** Lend a Hand
 You notice that the figure's cloak isn't properly sized, and it looks frayed in many places.
@@ -185,6 +211,59 @@ During this battle, when a player initiates a Strike while in the center of the 
 If you win, (Good End: Free Real Estate).
 If you lose, (Bad End: Evicted!).
 
+* TODO Death Fight
+** Death Appears
+As you make your way down a particularly windy road, the sun starts to set on you.
+People are not so common at this time of day, and it becomes a lot noisier from the sounds
+of the frogs and cicadas. They grow in a feverish pitch you haven't ever heard before, maddeningly
+loud, as if announcing the presence of something. "But who?" you think to yourself.
+
+"ME," says Death. "YOU GET USED TO IT EVENTUALLY."
+
+"Oh," you reply. "Oh dear."
+
+"I'VE BEEN...sorry. I've been trying to get you to come to the afterlife for an eternity,
+but you just haven't been able to let go of your links to your past life. That brooch used to be
+on your beloved cat, and the emotional connection has bound you to this world ever since." Death
+replied. "The bullet dent was incidental," Death muttered.
+
+You ask Death if they could repeat everything from the beginning. It's hard to hear anything over these
+insanely loud cicadas.
+
+"NO. It's time for you to come with me to the afterlife."
+
+"If you want me, come get me," you say.
+
+"WITH PLEASURE" Death replies, and puts on mask. Suddenly you realize that Death has been the one
+following you all day. Death was the merchant, at the house! You didn't catch why they have all the facades.
+They probably told you.
+
+Pick one of the following:
+If you have the [[Weaver]] card, and [[Cloth]], you may Reveal [[Patching Things Up]]
+If you have decide to run, Reveal [[Flight from the Ferryman]]
+If you decide to fight, Reveal [[Battle for your Soul]]
+
+** Patching Things Up
+"YOUR LAST ANCHOR IN THE WORLD OF THE LIVING HAS BEEN LOST. BID YOUR LAST FAREWELL, AND FOLLOW ME..."
+The figure extends one hand. Its cloak is apparently oversized, as its hand remains covered by its sleeve.
+
+Oh, the figure must be asking for some help with its cloak. Acting as quickly on your feet as you can without
+having any, you pull out your cloth and start weaving a newer shape to extend out their cloak, and sewing it to the existing one.
+The end results look intentionally bad in the way that people would pay top dollar for.
+
+"OH. THANK YOU. I have been meaning to have this replaced but it is so hard to have time off work."
+
+Reveal Card [[Friends Forever]]
+
+** TODO Flight from the Ferryman
+** TODO Battle for your Soul
+** Friends Forever
+"IF YOU WANT TO STAY...I guess I can't refuse you at this point. The house was never actually at risk of being bulldozed. I will
+see to it that everyone forgets that it exists. Hopefully I can come by in the future and we can play some Exceed or something?"
+
+Reveal card [[Reaper Ally]]
+You got the good ending: Friends Forever. Feel free to continue using this character with the cards you have.
+
 * TODO Job
 ** Getting a Job
 * TODO Raid
@@ -209,7 +288,7 @@ If you stun your opponent twice during this match, on cleanup Reveal card [[Firs
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 If your opponent moves past you three times in this match, on cleanup they Reveal card [[Enemy Crossed Up]].
 
-* Rewards
+* TODO Rewards
 ** First Fight Reward
 You root through their pockets. You find a weird metal box with glass on one side. Pressing a button on it causes a bright flash that nearly spooks you. Looking back at the glass, it shows you a near perfect painting of the surroundings you had it pointed at. Could come in handy.
 
@@ -219,7 +298,6 @@ On card reveal you can choose to use this card. If you do, you have Ignore Guard
 What was that? It disappeared as you hit it. Whatever it was, it clearly wasn't a dog. You already did what you came to this house for, so time to get out of here and maybe buy a gun.
 
 You can choose to chuck your gun at your opponent, using the following effect-Hit: +1 Power and Push 1. If you use this effect, this card is placed in your opponent's Reveal area.
-
 
 ** Awakening
 It's starting to come back to you. *This* is how you get things done! Perhaps it always was? Back in your first century you used to be a...
@@ -232,6 +310,7 @@ Select one of the following:
 
 ** Enemy Crossed Up
 Molly certainly doesn't have dead-ly reflexes. You find yourself speeding by in a jiffy and you start to notice the ways she struggles to move.
+Win conditions changed to [[Ripped Off]] and lose condition to [[Trounced]]
 
 Whenever you move past Molly, your next Strike has +2 Power.
 ** Weaver
@@ -245,4 +324,18 @@ Remove both "Fireball" cards from your deck and replace them with the contents o
 ** Lecturer
 You remember. You could call yourself a lecturer. You would educate people to concepts of pain, and they got up to speed quickly. You were never the most patient. Open bag 3.
 
-Remove both "The Slow Mixup" cards from your deck and replace them with the contents of the bag, they are part of your your deck now instead.
+Remove both "The Fast Mixup" cards from your deck and replace them with the contents of the bag, they are part of your your deck now instead.
+
+** Cloth
+With the extra money you found, you buy some nice cloth you found at a vendor on the way. It's the color
+of ebony darkness, just the way you like it.
+
+** TODO Five Hundred Dollars
+That's a lot of money! Or at least it was last time you checked. You remember seeing
+people buy houses for this much.
+
+** TODO Three Hundred Dollars
+This one exists if you got ripped off
+** TODO Has Gem Brooch
+** TODO Reaper Ally
+In future games
