@@ -24,7 +24,7 @@
   | Cobbler         |    0 | 1     |     4 |     2 |     2 |     4 | Ignore Armor, Hit: Push 2, Close 1.                                                                                          |            | +2 Armor. Cleanup: If you hit, add this to your Gauge. | Replaces Fireball   |
   | Lecturer        |      | 1     |     3 |     6 |       |       | Before: Close 1. Hit: Push 1 and Gain Advantage.                                                                             |            | +1 Speed. Now: Strike.                                 | Replaces Fast Mixup |
 
-* TODO Prologue
+* Prologue
 ** Initial
 Within the largely untrodden swamps and forests of rural Maryland there lies a mansion. Untouched mostly by the settlement of nearby towns over the past several hundreds years it has grown overrun with vegetation and is choked of sunlight. Here lies a decrepit house, planks on the front porch rotting, black portals with cobwebs where windows appear to have once belonged. Your home. The Molly Mansion.
 
@@ -39,26 +39,6 @@ Your opponent picks one of the following:
 - Your opponent is a brazen kid. They must Reveal [[Enemy Kid]].
 
 (As they Reveal, they place it face-up in their effect area and read aloud).
-
-** Enemy Mailman
-You are a mailman. You were only delivering another letter when you hear a unearthly wail from behind you and only can assume this was another dog not properly leashed. You've had enough! Let your fists fly!
-
-(Role)
-Once per turn, you may choose to Close or Retreat 1, then regain your action.
-
-** Enemy Neighbor
-This house and the surrounded forest has always had an ominous feel to it and you never liked what it does to your property values. As the only neighbor for miles you've worked hard to get the local county to finally do something about this eyesore, so much you couldn't wait to deliver the notice yourself. Being nearby gives you goosebumps, so when you hear a scream behind you, you instinctively tense up and defend yourself.
-
-(Role)
-For every 2 cards in your Gauge, you gain +1 Power when wild-swinging.
-
-** TODO Enemy Kid
-It should be a grown-up's job to deliver notices, but everyone old enough is too leery of the house deep in the forest to actually go near it. This notice has been waiting to be posted for weeks. When your parents weren't letting you go to a friend's party because it was going to be happening late during a weekday, you decided to show you were more of an adult than them by doing something they weren't brave enough for.
-
-You didn't expect the house to actually be so creepy, or to feel like you're freezing up as you hear a gasp behind you turn into a full on scream. You'll show them you're not scared though, en garde!
-
-(Role)
-When initiating a Strike, add up your speed, armor, and guard. Then subtract this value from your opponent's Speed. You gain this much Power (minimum of 0).
 
 ** Prologue Win
 Your assailant falls to the ground unconscious. You carry them a couple miles and drop them off at the lawn of the nearest neighbor, it's their problem now. You weren't going to get any answers from them that weren't, "AIEEE" anyways. You head home and read the note that they'd left on your door.
@@ -132,106 +112,6 @@ It probably would have fetched a great price, if it was that much more valuable.
 There's not much you can do, so you decide to return home to think about how to proceed.
 Your opponent Reveals card [[Has Gem Brooch]]
 You Reveal [[Death Appears]]
-
-* Suggested cards From D
-** Time is Money
-YOUR LAST ANCHOR IN THE WORLD OF THE LIVING HAS BEEN LOST. BID YOUR LAST FAREWELL, AND FOLLOW ME...
-
-The figure extends one hand. Its cloak is apparently oversized, as its hand remains covered by its sleeve.
-
-Oh, the figure must be some kind of tour guide, and the extended hand is waiting for payment. You think. The silence is geting a bit uncomfortable.
-
-If you have [Weaver] in your effect area, you may (card instruction: Lend A Hand).
-If you pay the stranger, (card instruction: Battle At The Gates Of Eternity).
-If you take the stranger's hand, (card instruction: Battle For Your Soul).
-If you just ignore them, (card instruction: Battle With The Ferryman).
-
-** Battle with Ferryman
-If you lose, Bad End: Paradise
-If you win and have _no cards matching some condition_ you may *Price Check*
-Otherwise *Tax Office*.
-
-** Lend a Hand
-You notice that the figure's cloak isn't properly sized, and it looks frayed in many places.
-
-You take out a sewing kit. Before the figure has time to protest, you have its sleeve firmly in hand and are working to mend the frayed ends and patch a few of the more threadbare spots with extra thread.
-
-If you use pink thread, (Good End: Friends Forever).
-If you use grey thread, (Awkward Battle With The Ferryman).
-
-** Good End: Friends Forever
-You sew a little heart into the sleeve of the cloak as you finish patching it up.
-
-The figure raises its hand to its shadowed face. You have no idea what expression crosses its dark features, but it offers you a grim nod. Without another word, it turns and disappears into the darkness.
-
-It takes you a while to get back home, and when you finally get there, everything seems dark and indistinct for a while. But bit by bit, you remind yourself what everything looks like and feels like, and your house - no, your home becomes firmer and more stable as you do.
-
-Somebody does, eventually, try to demolish the house. They move a bunch of wood and bricks around for some reason, but you can still see everything exactly where it ought to be, so it doesn't concern you. This is your home, and nobody can take it away from you.
-
-** Awkward Battle with the Ferryman
-You patch up the figure's sleeve with thread that matches the rest of the cloak. When you're finished, the figure raises its sleeve to its shadowed face, apparently inspecting your work.
-
-WELL. ER. THANK YOU. NEVERTHELESS, I MUST INSIST YOU ACCOMPANY ME.
-
-You're not interested, but the stranger isn't taking no for an answer.
-
-At the start of this fight, draw 2 additional cards in your starting hand (before mulligan).
-If you lose, (Bad End: Paradise).
-If you win and have [no cards matching some condition], you may (card instruction: Price Check).
-Otherwise, (card instruction: Tax Office).
-** Price Check
-If you have [reward for Sold!], (card instruction: Holdover Tenant: Paid Up).
-If you have [reward for Ripped Off!], (card instruction: Holdover Tenant: Coming Up Short).
-
-** Holdover Tenant: Paid Up
-You just got enough money to pay the taxes on your home (probably) to prevent it from being demolished or foreclosed or what-have-you. You have no intention of leaving now, and you say as much.
-
-FOOL, utters the cloaked figure, drawing back its hood. I WARNED YOU TIME AND AGAIN, AND YOU -
-
-You weren't really paying attention to whatever it said after that. You were too surprised to see the same person you've been running into all day. You guess this is going to end the same way, and you get ready to fight.
-
-Your opponent notices your change in stance. They check their watch, sigh, and toss their cloak aside.
-
-VERY WELL, they begin, then clear their throat and finish: "Let's do this."
-
-During the first Strike of the upcoming fight, your attacks have +1 Power and +1 Speed.
-(card instruction: Battle With Death Itself)
-
-** Holdover Tenant: Coming Up Short
-You don't know where you're going to get the money to pay the taxes on your home, but you've at least got a start. You don't intend to give up now, and you say as much.
-
-FOOL, utters the cloaked figure, drawing back its hood. I WARNED YOU TIME AND AGAIN, AND YOU -
-
-You weren't really paying attention to whatever it said after that. You were too surprised to see the same person you've been running into all day. You guess this is going to end the same way, and you get ready to fight.
-
-Your opponent notices your change in stance. They check their watch, sigh, and toss their cloak aside.
-
-VERY WELL, they begin, then clear their throat and finish: "Let's do this."
-
-(card instruction: Battle With Death Itself)
-
-** Battle with Death itself
-(silly bonuses for both players and stuff?)
-
-If you win, (Good End: Revelation!).
-If you lose, (Bad End: Paradise).
-
-** Tax Office
-After giving that weird tour guide a drubbing (or was it a thrashing?), the sky brightens again and you can see the road again. Eventually, you find your way to the county tax office (not without getting lost several times and getting screamed at by whomever you tried to ask for directions).
-
-The receptionist directs you to "take a number" without even looking up. You retrieve a small, numbered ticket, then immediately drop it. In your instinctive rush to catch it before it flutters too far, you crash into someone, and both of you are sent sprawling.
-
-Two tickets lie on the ground between you as you rise, slightly dazed: 99 and 66. You're not sure which one was yours.
-
-"Not again," sighs the person you bowled over. You meet their gaze and flinch.
-
-Both of you immediately glance at the display indicating which ticket is up next. It currently reads 65, and the estimated wait time until the next representative is available reads... 75 minutes.
-
-You lock eyes with your foe. The 66 ticket is exactly midway between you. It's time to fight like you've never fought before.
-
-During this battle, when a player initiates a Strike while in the center of the arena, their attack has +2 Power.
-If you win, (Good End: Free Real Estate).
-If you lose, (Bad End: Evicted!).
 
 * TODO Death Fight
 ** Death Appears
@@ -401,8 +281,27 @@ time to ghost this company in the future. Good thing you never gave them any con
 Reveal Card [[Tax Office]].
 
 ** TODO Bad First Day
+** Tax Office
+Eventually, you find your way to the county tax office (not without getting lost several times and getting screamed at by whomever you tried to ask for directions).
 
-** TODO Tax Office
+The receptionist directs you to "take a number" without even looking up. You retrieve a small, numbered ticket, then immediately drop it. In your instinctive rush to catch it before it flutters too far, you crash into someone, and both of you are sent sprawling.
+
+Two tickets lie on the ground between you as you rise, slightly dazed: 99 and 66. You're not sure which one was yours.
+
+"Not again," sighs the person you bowled over. You meet their gaze and flinch.
+
+Both of you immediately glance at the display indicating which ticket is up next. It currently reads 65, and the estimated wait time until the next representative is available reads... 75 minutes.
+
+You lock eyes with your foe. The 66 ticket is exactly midway between you. It's time to fight like you've never fought before.
+
+During this battle, when a player initiates a Strike while in the center of the arena, their attack has +2 Power.
+Reveal [[Tax Office Goals]]
+If you win Reveal [[Free Real Estate]].
+If you lose, Reveal [[Evicted]].
+
+** TODO Free Real Estate
+** TODO Evicted
+
 
 * TODO Raid
 ** Raiding the Office
@@ -427,6 +326,7 @@ At the end of this match, seal this card.
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 At the end of this match, seal this card.
 
+** TODO Tax Office Goals
 ** Market Goals
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 If your opponent moves past you three times in this match, on cleanup they Reveal card [[Enemy Crossed Up]].
@@ -437,6 +337,26 @@ At the end of this match, seal this card.
 ** TODO Death Fight Goals
 
 * TODO Rewards
+** Enemy Mailman
+You are a mailman. You were only delivering another letter when you hear a unearthly wail from behind you and only can assume this was another dog not properly leashed. You've had enough! Let your fists fly!
+
+(Role)
+Once per turn, you may choose to Close or Retreat 1, then regain your action.
+
+** Enemy Neighbor
+This house and the surrounded forest has always had an ominous feel to it and you never liked what it does to your property values. As the only neighbor for miles you've worked hard to get the local county to finally do something about this eyesore, so much you couldn't wait to deliver the notice yourself. Being nearby gives you goosebumps, so when you hear a scream behind you, you instinctively tense up and defend yourself.
+
+(Role)
+For every 2 cards in your Gauge, you gain +1 Power when wild-swinging.
+
+** TODO Enemy Kid
+It should be a grown-up's job to deliver notices, but everyone old enough is too leery of the house deep in the forest to actually go near it. This notice has been waiting to be posted for weeks. When your parents weren't letting you go to a friend's party because it was going to be happening late during a weekday, you decided to show you were more of an adult than them by doing something they weren't brave enough for.
+
+You didn't expect the house to actually be so creepy, or to feel like you're freezing up as you hear a gasp behind you turn into a full on scream. You'll show them you're not scared though, en garde!
+
+(Role)
+When initiating a Strike, add up your speed, armor, and guard. Then subtract this value from your opponent's Speed. You gain this much Power (minimum of 0).
+
 ** First Fight Reward
 You root through their pockets. You find a weird metal box with glass on one side. Pressing a button on it causes a bright flash that nearly spooks you. Looking back at the glass, it shows you a near perfect painting of the surroundings you had it pointed at. Could come in handy.
 
