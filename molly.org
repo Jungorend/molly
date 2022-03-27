@@ -24,7 +24,7 @@
   | Cobbler         |    0 | 1     |     4 |     2 |     2 |     4 | Ignore Armor, Hit: Push 2, Close 1.                                                                                          |            | +2 Armor. Cleanup: If you hit, add this to your Gauge. | Replaces Fireball   |
   | Lecturer        |      | 1     |     3 |     6 |       |       | Before: Close 1. Hit: Push 1 and Gain Advantage.                                                                             |            | +1 Speed. Now: Strike.                                 | Replaces Fast Mixup |
 
-* Prologue
+* TODO Prologue
 ** Initial
 Within the largely untrodden swamps and forests of rural Maryland there lies a mansion. Untouched mostly by the settlement of nearby towns over the past several hundreds years it has grown overrun with vegetation and is choked of sunlight. Here lies a decrepit house, planks on the front porch rotting, black portals with cobwebs where windows appear to have once belonged. Your home. The Molly Mansion.
 
@@ -43,31 +43,34 @@ Your opponent picks one of the following:
 ** Enemy Mailman
 You are a mailman. You were only delivering another letter when you hear a unearthly wail from behind you and only can assume this was another dog not properly leashed. You've had enough! Let your fists fly!
 
+(Role)
 Once per turn, you may choose to Close or Retreat 1, then regain your action.
 
 ** Enemy Neighbor
 This house and the surrounded forest has always had an ominous feel to it and you never liked what it does to your property values. As the only neighbor for miles you've worked hard to get the local county to finally do something about this eyesore, so much you couldn't wait to deliver the notice yourself. Being nearby gives you goosebumps, so when you hear a scream behind you, you instinctively tense up and defend yourself.
 
+(Role)
 For every 2 cards in your Gauge, you gain +1 Power when wild-swinging.
 
-** Enemy Kid
+** TODO Enemy Kid
 It should be a grown-up's job to deliver notices, but everyone old enough is too leery of the house deep in the forest to actually go near it. This notice has been waiting to be posted for weeks. When your parents weren't letting you go to a friend's party because it was going to be happening late during a weekday, you decided to show you were more of an adult than them by doing something they weren't brave enough for.
 
 You didn't expect the house to actually be so creepy, or to feel like you're freezing up as you hear a gasp behind you turn into a full on scream. You'll show them you're not scared though, en garde!
 
+(Role)
 When initiating a Strike, add up your speed, armor, and guard. Then subtract this value from your opponent's Speed. You gain this much Power (minimum of 0).
 
 ** Prologue Win
 Your assailant falls to the ground unconscious. You carry them a couple miles and drop them off at the lawn of the nearest neighbor, it's their problem now. You weren't going to get any answers from them that weren't, "AIEEE" anyways. You head home and read the note that they'd left on your door.
 
-Seal card [[First Fight Goals]]. Reveal card [[First Fight Reward]].
+Reveal card [[First Fight Reward]].
 Reveal card [[Call to Action]].
 
 ** Prologue Loss
 You wake up in front of your house with a headache. The darkness of a recently set sun helps a little, but you'd forgotten how much the living can bust you up. You must have gone invisible when you passed out, you don't see any indication of the earlier trespasser.
 Not a great experience, but you're more worried about the note than the intruder. You read it over.
 
-Seal card [[First Fight Goals]]. Your Opponent Reveals card [[First Fight Opponent Reward]].
+Your Opponent Reveals card [[First Fight Opponent Reward]].
 Reveal card [[Call to Action]].
 
 * Exposition
@@ -86,7 +89,7 @@ You look through your house. Most things here are in various states of decay. Yo
 
 You walk up to a jewelry vendor. Looking you in the eyes, they stand up and throw off their hat. "YOU!" they shout. Oh. It's the person who was in front of your house before. "Here to haunt me are you? Well just come and try it, I'm ready for you this time."
 
-Reveal card [[Second Fight Goals]].
+Reveal card [[Market Goals]].
 If you win this match, Reveal card [[Sold]].
 If you lose, Reveal card [[Dropped It]].
 
@@ -274,17 +277,133 @@ The end results look intentionally bad in the way that people would pay top doll
 
 Reveal Card [[Friends Forever]]
 
-** TODO Flight from the Ferryman
-** TODO Battle for your Soul
+** Flight from the Ferryman
+Absolutely brilliant. I'm sure nobody has ever tried to escape death before.
+The problem is, as you run and run, you notice that you don't seem to be actually getting further away.
+Every few yards you look down and recognize you seem to be in the same spot again.
+
+Frustrating, but you're sure death is probably busier than you if you keep this up.
+Reveal [[Escape Death]]
+
+** Battle for your Soul
+Thinking on it, Death definitely seems to know where you are most of the time, so
+it makes sense a lot of people would be quite happy if you managed to be the first
+to defeat death!
+
+Death senses your intentions. "Ah, a fight for your soul? Very well," and pulls out a chess board that somehow was contained in their cloak.
+
+You clock Death right in the face.
+Reveal [[Fighting Death]].
+
+** TODO Fighting Death
+Text here on special rules conditions.
+
+Reveal card [[Death Fight Goals]].
+If you win this fight, reveal [[Beat up Death]]
+If you lose this fight, reveal [[Lost to Death]]
+
+** Beat up Death
+You did it! You are the first to beat death! Although now that you think about it,
+you *have* fought them several times in the past now. Ah well.
+"Fine. I didn't want your soul anyways," Death says in an obviously hurt tone, and disappeared
+in a puff of grayish smoke.
+
+You return to your home, and enjoy a few centuries of quiet.
+GOOD END: Won the Battle for your Soul
+Reveal [[Ending]]
+
+** Lost to Death
+The chess match probably wouldn't have gone better, but it would have
+hurt an awful lot less. You resign yourself to your fate.
+
+Death turns its faceless cloak towards you and says, "The chess match probably
+wouldn't have gone better, but it would have hurt an awful lot less."
+
+Took the words from your mouth. "WELL THEN, WE DEPART FOR THE AFTERLIFE"
+
+You unwillingly depart from the world of the living.
+BAD END: Paradise
+
+Reveal card: [[Ending]]
+
 ** Friends Forever
 "IF YOU WANT TO STAY...I guess I can't refuse you at this point. The house was never actually at risk of being bulldozed. I will
 see to it that everyone forgets that it exists. Hopefully I can come by in the future and we can play some Exceed or something?"
 
 Reveal card [[Reaper Ally]]
-You got the good ending: Friends Forever. Feel free to continue using this character with the cards you have.
+GOOD ENDING: Friends Forever.
+Reveal card [[Ending]].
+
+** Escape Death
+The spaces on the edges of the battleground wrap around. If you are pushed or move beyond the corner, the first movement places you on the space on the opposite end.
+Likewise ranges extend to these sides and beyond.
+Molly sets her initial life to 15 for this battle. Each time Molly wraps around from the edge of the board furthest from her starting position to the one closest,
+her opponent loses 10 life. If Molly wraps the board in the opposite direction, her opponent gains 10 life. These effects occur even if the result of being pushed or pulled.
+Strikes that would kill your opponent instead only reduce them to 1 hitpoint.
+
+Reveal Card [[Escape Goals]]
+If you win this Fight, Reveal [[Got Away]]
+If you lose this Fight, Reveal [[Death Caught Up]]
+
+** Got Away
+Whew. That was a frightful flight. You made it though! It did sound like death knew where you live,
+but on the other hand, the shrug of shoulders as you finally started to clear away suggest you made yourself
+enough a nuisance you're probably fine.
+
+You return home to your lovely home to enjoy the next several centuries of quiet.
+Good End: Outran Death
+Reveal card [[Ending]]
+
+** Death Caught Up
+Try as you might to get away, Death has dogged your every step until you find yourself out of breath. It looks like you won't be able
+to keep your house after all.
+"Come, it is time for us to go," he says.
+
+You lost your last chance to keep your home, you are unwillingly dragged away to Paradise.
+
+Bad End: Paradise
+Reveal card [[Ending]]
 
 * TODO Job
 ** Getting a Job
+Makes sense that if you need money you need someone to give you it.
+Since you don't keep many things at home, this seems to be the most reasonable
+way to make the money. You can probably make $500 in an evening. Hundreds of years
+of experience is a pretty good selling point.
+
+You find yourself a wonderful office job. The work is mindless, the flourescent lights
+above barely seem to work, everyone seems to be completely drained of any life.
+
+It reminds you what you're working for.
+
+You just have one problem.
+Reveal card [[Problem]]
+
+** Problem
+One of your fellow employees approaches you. "Are you alright?" they ask, "You seem a little...pale."
+"If you need to take off, we can start your training day tomorrow instead."
+
+"No," you reply, "I need to make this money now."
+
+"Well if that's the case, prove to me you're up to it!" they reply, and flip your desk.
+
+Reveal cards [[Office Goals]]
+Your opponent reveals card [[Undercover Trainer]]
+If you win this fight, reveal card [[Fit Employee]]
+If you lose this fight, reveal card [[Bad First Day]]
+
+** Fit Employee
+Your boss walks in, "That's the sort of enthusiasm we need around here! Keep up the good work."
+You get up off the unconscious face of your coworker, and return back to your desk.
+After a long day of work, you are given the $500 dollars you need. Since you have what you needed,
+time to ghost this company in the future. Good thing you never gave them any contact info.
+
+Reveal Card [[Tax Office]].
+
+** TODO Bad First Day
+
+** TODO Tax Office
+
 * TODO Raid
 ** Raiding the Office
 
@@ -294,7 +413,7 @@ A grey mist rises in the darkness, then coalesces into a towering hooded figure.
 
 IT IS TIME, it utters.
 
-* Fight Goals
+* TODO Fight Goals
 ** First Optional Goal
 Nice work! Way to punch. You are quite violent. You hesitate less when it comes to escalating situations. Your Exceed costs one less.
 
@@ -302,10 +421,20 @@ Nice work! Way to punch. You are quite violent. You hesitate less when it comes 
 If you win this fight, Reveal card [[Prologue Win]].
 If you lose this fight, Reveal card [[Prologue Loss]].
 If you stun your opponent twice during this match, on cleanup Reveal card [[First Optional Goal]].
+At the end of this match, seal this card.
 
-** Second Fight Goals
+** TODO Office Goals
+If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
+At the end of this match, seal this card.
+
+** Market Goals
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 If your opponent moves past you three times in this match, on cleanup they Reveal card [[Enemy Crossed Up]].
+At the end of this match, seal this card.
+
+** TODO Escape Goals
+
+** TODO Death Fight Goals
 
 * TODO Rewards
 ** First Fight Reward
@@ -361,3 +490,13 @@ In future games, even if you reset the characters othewise, you may start iwth t
 If you do so, Reveal cards in bag X. (This is a new character card or two, to make them a puppet character.
 Origin of attacks is reaper if max range is 3 or less. Effects that move, push or pull can be declared against either
 Molly or Reaper, even if actions otherwise affect the other.)
+
+** Ending
+You have completed the story. You may set back up the deck again by returning all mystery cards to the mystery deck and resetting molly to her
+original cards, or you may decide to continue playing fights with your current Molly deck.
+** TODO Undercover Trainer
+It's like they don't notice you've already met them once. You're pretty confident
+you know their tricks this time, and they won't be ready as long as you stay undercover.
+
+Whenever you have the option to use your Role card, you may choose not to. If you do use your Role card,
+this card is sealed.
