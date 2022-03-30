@@ -5,6 +5,9 @@
 
 * Ideas
 - Markers for causing nonlethal damage that stack
+- Car fight with secret objectives for other player in car
+- puppet character fight with traps for throwing employees
+- boms that can be added to to delay their explosion or passed to opponent
 
 ** Base Cards
   | Name            | Cost | Range | Power | Speed | Armor | Guard | Attack Effect                                                                                                                | Boost Cost | Boost Effect                                           | Notes               |
@@ -113,7 +116,7 @@ There's not much you can do, so you decide to return home to think about how to 
 Your opponent Reveals card [[Has Gem Brooch]]
 You Reveal [[Death Appears]]
 
-* TODO Death Fight
+* Death Fight
 ** Death Appears
 As you make your way down a particularly windy road, the sun starts to set on you.
 People are not so common at this time of day, and it becomes a lot noisier from the sounds
@@ -175,9 +178,7 @@ Death senses your intentions. "Ah, a fight for your soul? Very well," and pulls 
 You clock Death right in the face.
 Reveal [[Fighting Death]].
 
-** TODO Fighting Death
-Text here on special rules conditions.
-
+** Fighting Death
 Reveal card [[Death Fight Goals]].
 If you win this fight, reveal [[Beat up Death]]
 If you lose this fight, reveal [[Lost to Death]]
@@ -244,7 +245,7 @@ You lost your last chance to keep your home, you are unwillingly dragged away to
 Bad End: Paradise
 Reveal card [[Ending]]
 
-* TODO Job
+* Job
 ** Getting a Job
 Makes sense that if you need money you need someone to give you it.
 Since you don't keep many things at home, this seems to be the most reasonable
@@ -280,7 +281,38 @@ time to ghost this company in the future. Good thing you never gave them any con
 
 Reveal Card [[Tax Office]].
 
-** TODO Bad First Day
+** Bad First Day
+You get tossed around like no one's business. "It's a tough industry," your
+coworker calls out. "If you're sick we can't have you here filling out spreadsheets."
+
+You reply, "I'm not sick." Your coworker looks confused, so you sulk up to him and whisper,
+"The truth is, I'm a ghost."
+
+"Yeah right, it sounds like you're sick. Go home."
+
+Despondent, you head out. You need that money tonight. Desperate, you spy an amusement park nearby.
+Perhaps if you pretend to be an employee you can get some tips or something?
+
+Reveal Card [[Haunted House]].
+
+** Haunted House
+This seems to be a house that looks a bit like your own, so you find yourself drawn to it.
+Inside the decorations look not too unlike your own house, but people walking through it are occasionally
+screaming in fear and running.
+
+"I see," you say to yourself, "They want to be scared."
+
+And so you set to work. You look around for the nearest group, and try to scare them.
+
+"BOOOOO" you say in your scariest voice.
+
+"AHH" they reply, and involuntarily punch you. Guess it's time to show them sometimes the customer
+is wrong. Have at them!
+
+Reveal card [[Haunted House Goals]]
+If you win this match, Reveal card [[Money]]
+If you lose this match, Reveal card [[New Home]]
+
 ** Tax Office
 Eventually, you find your way to the county tax office (not without getting lost several times and getting screamed at by whomever you tried to ask for directions).
 
@@ -299,18 +331,149 @@ Reveal [[Tax Office Goals]]
 If you win Reveal [[Free Real Estate]].
 If you lose, Reveal [[Evicted]].
 
-** TODO Free Real Estate
-** TODO Evicted
+** Free Real Estate
+Yes this was definitely your ticket. You go up to the counter and drop 500 $1 bills on them without explaining.
+"Ah this must be for the house we put the notice on this morning? Alright you're covered. Thank you for the visit."
 
+You smile for the first time in a while. The representative recoils a bit in surprise and maybe a little horror.
 
-* TODO Raid
+Good End: Paid Debts
+Reveal card [[Ending]]
+
+** Evicted
+It's too late. By the time your ticket arrives, you're already past the deadline,
+and your house is no longer yours. To add insult to injury, the people behind you
+are upset you're taking so long to finish up with the representative. It's not a great day.
+
+BAD END: Evicted
+Reveal card [[Ending]]
+
+** Money
+Your manager(?) thanks you for dealing with that.
+"It's always a problem with people punching our employees," she replies.
+"Someday we ought to have a policy about that."
+
+"Here, take this bonus for your hard work today."
+
+It's exactly $500! Thanking her profusely, you call it a night. You barely make it,
+but you were able to throw the money at the county employees right before they got to work on your house.
+
+Your home is secure!
+Good End: Money in the nick of time
+Reveal [[Ending]]
+
+** New Home
+Well, that didn't work out. And unfortunately, any money you were going to make today,
+you had to agree to pay for attacking guests. They didn't seem to question you working here though.
+
+Looking at the time, you've already past your window...your house is gone. But looking around this place,
+you think you might be able to make do. Looks like you found a new home.
+
+Good End: Home Away From Home
+Reveal card [[Ending]]
+
+* Raid
 ** Raiding the Office
+You put on a mask and make for the county office. You pick the perfect time of day,
+when no normal person would be awake and working, 10 in the morning. You slip in through the doors which are curiously unlocked,
+and you're already behind the employeee counters before you notice that for some reason there's like a dozen people here watching you.
 
-As you wearily rise and dust yourself off, you realize that it's much later than you thought. Everything's dark - even the streetlights. That probably isn't good.
+Sighing, you say, "Well come on then let's have at it."
+A familiar face steps forward. And a group of county employees behind them.
 
-A grey mist rises in the darkness, then coalesces into a towering hooded figure. The figure leans over you. Its hood obscures its features in shadow, and you can only barely glimpse something pale - maybe skeletal - within.
+Fight!
+Reveal [[Raid Goals]]
+If you win, reveal [[Paying your House off]]
+If you lose, reveal [[Race through Town]]
 
-IT IS TIME, it utters.
+** Paying your House off
+Excellent. There's the money you needed. Right in the container labeled,
+"Discretionary Funds for when you get robbed."
+
+So after you have your $500, you take off your mask. Turn to the people you were fighting,
+and say, "Hello, I am here to pay off my taxes."
+
+Based on the not-amused expressions, they definitely still know it is you. They put up their fists
+again.
+
+"Hey, I already beat you once," you protest.
+
+"Yes, but now you're cutting in line, and a separate infraction means a second fight."
+
+Reveal [[Second Raid Goals]]
+If you win, Reveal [[Paid Off House]]
+If you lose, Reveal [[Wait in Line]]
+
+** Paid Off House
+"Ow ok you win." they reply.
+"You are all settled up."
+
+You smile and thank them for their time.
+You breath a sigh of relief, knowing that everything will
+work out.
+
+GOOD END: Paid off House
+Reveal Card [[Ending]]
+
+** Wait in Line
+Looks like you're going to have to wait in line. The line actually wraps around the whole building.
+How did you not notice that when coming in the first time?
+
+By the time you get to the counter to explain your problem, they inform you your house has already been
+demolished.
+
+Bitter, you resolve you might just haunt this building until you find a nicer place.
+
+BAD END: Demolished House
+Reveal card [[Ending]]
+
+** Race through Town
+It's not going well. You see the writing on the wall. So instead of lingering, you grab a stack of papers on the counter,
+(surely they must be related to your house?) and race out of there.
+
+Being pursued by the entire county government is not ideal, as you have already been pretty heavily stomped on.
+You spot a car in the parking lot and shove the person who was just about to start it into the passenger seat, and floor it.
+
+It looks like you got away, so time to burn those papers and everything should be fine.
+
+Reveal card [[Papers]]
+Reveal card [[Mecha Fight]]
+
+** Mecha Fight
+It's not fine. On the horizon trailing just behind you seems to be a large robot.
+It is gaining on you. Looks like you will have to settle this one for good.
+
+Reveal Card [[Robot Fight Goals]]
+If you win Reveal [[Beat Robot]]
+If you lose, Reveal [[Spun out]]
+
+** Beat Robot
+The Robot explodes in a flash of brilliant Lavender light.
+
+That was their enforcer robot. With that gone, there is nothing to
+threaten your house any more. The county has other budget considerations now.
+
+Just to be sure you also rip up the papers you took. That probably did it.
+
+You pat your new carpool friend on the back, you've been through a lot together.
+They seem to dazed to notice.
+
+Then you hop out of the car and head home to enjoy some quiet.
+
+GOOD END: You are unconstitutional!
+Reveal card [[Ending]]
+
+** Spun out
+Yeah. Makes sense that some random Honda would be no match for a death robot.
+Well at least you tried, you think to yourself.
+
+You get out of the car, and your passenger gets back in the driver seat and drives off.
+
+It looks like you lost this one. Looks like you'll need to find a new place to live.
+You and the robot both head off, neither with any purpose.
+
+BAD ENDING: Evicted
+Reveal card [[Ending]]
 
 * TODO Fight Goals
 ** First Optional Goal
@@ -322,20 +485,23 @@ If you lose this fight, Reveal card [[Prologue Loss]].
 If you stun your opponent twice during this match, on cleanup Reveal card [[First Optional Goal]].
 At the end of this match, seal this card.
 
+** TODO Haunted House Goals
 ** TODO Office Goals
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 At the end of this match, seal this card.
 
 ** TODO Tax Office Goals
+** TODO Second Raid Goals
+** TODO Raid Goals
 ** Market Goals
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 If your opponent moves past you three times in this match, on cleanup they Reveal card [[Enemy Crossed Up]].
 At the end of this match, seal this card.
 
 ** TODO Escape Goals
-
 ** TODO Death Fight Goals
 
+** TODO Robot Fight Goals
 * TODO Rewards
 ** Enemy Mailman
 You are a mailman. You were only delivering another letter when you hear a unearthly wail from behind you and only can assume this was another dog not properly leashed. You've had enough! Let your fists fly!
@@ -420,3 +586,5 @@ you know their tricks this time, and they won't be ready as long as you stay und
 
 Whenever you have the option to use your Role card, you may choose not to. If you do use your Role card,
 this card is sealed.
+
+** TODO Papers
