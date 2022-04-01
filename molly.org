@@ -216,12 +216,6 @@ GOOD ENDING: Friends Forever.
 Reveal card [[Ending]].
 
 ** Escape Death
-The spaces on the edges of the battleground wrap around. If you are pushed or move beyond the corner, the first movement places you on the space on the opposite end.
-Likewise ranges extend to these sides and beyond.
-Molly sets her initial life to 15 for this battle. Each time Molly wraps around from the edge of the board furthest from her starting position to the one closest,
-her opponent loses 10 life. If Molly wraps the board in the opposite direction, her opponent gains 10 life. These effects occur even if the result of being pushed or pulled.
-Strikes that would kill your opponent instead only reduce them to 1 hitpoint.
-
 Reveal Card [[Escape Goals]]
 If you win this Fight, Reveal [[Got Away]]
 If you lose this Fight, Reveal [[Death Caught Up]]
@@ -326,7 +320,6 @@ Both of you immediately glance at the display indicating which ticket is up next
 
 You lock eyes with your foe. The 66 ticket is exactly midway between you. It's time to fight like you've never fought before.
 
-During this battle, when a player initiates a Strike while in the center of the arena, their attack has +2 Power.
 Reveal [[Tax Office Goals]]
 If you win Reveal [[Free Real Estate]].
 If you lose, Reveal [[Evicted]].
@@ -475,7 +468,7 @@ You and the robot both head off, neither with any purpose.
 BAD ENDING: Evicted
 Reveal card [[Ending]]
 
-* TODO Fight Goals
+* Fight Goals
 ** First Optional Goal
 Nice work! Way to punch. You are quite violent. You hesitate less when it comes to escalating situations. Your Exceed costs one less.
 
@@ -485,24 +478,86 @@ If you lose this fight, Reveal card [[Prologue Loss]].
 If you stun your opponent twice during this match, on cleanup Reveal card [[First Optional Goal]].
 At the end of this match, seal this card.
 
-** TODO Haunted House Goals
-** TODO Office Goals
+** Haunted House Goals
+Place a marker on one space, your opponent does the same for a different space.
+These have frightful decorations in them. If you would Advance/Retreat into a space with a marker,
+you instead move 1 additional space.
+
+Seal this at the end of the match.
+
+** Office Goals
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
+If your opponent uses the same normal two strikes in a row, they reveal card [[More Normals]]
 At the end of this match, seal this card.
 
-** TODO Tax Office Goals
-** TODO Second Raid Goals
-** TODO Raid Goals
+** Tax Office Goals
+During this battle, when a player initiates a Strike while in the center of the arena, their attack has +2 Power.
+
+Seal this card at the end of the match.
+
+** Second Raid Goals
+If either you or your opponent do 8 or more damage in a single Strike,
+that player reveals card [[Astral]].
+
+Seal this card after this match.
+
+** Raid Goals
+If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
+Open bag [[Employee]]
+As an action, your opponent can spend force. For each force spent, they may place an Employee
+on either space on the edge of the arena.
+
+At the end of this match, seal this card.
 ** Market Goals
 If you set an EX attack three times in this match, on cleanup, Reveal card [[Awakening]].
 If your opponent moves past you three times in this match, on cleanup they Reveal card [[Enemy Crossed Up]].
 At the end of this match, seal this card.
 
-** TODO Escape Goals
-** TODO Death Fight Goals
+** Escape Goals
+The spaces on the edges of the battleground wrap around. If you are pushed or move beyond the corner, the first movement places you on the space on the opposite end.
+Likewise ranges extend to these sides and beyond.
+Molly sets her initial life to 15 for this battle. Each time Molly wraps around from the edge of the board furthest from her starting position to the one closest,
+her opponent loses 10 life. If Molly wraps the board in the opposite direction, her opponent gains 10 life. These effects occur even if the result of being pushed or pulled.
+Strikes that would kill your opponent instead only reduce them to 1 hitpoint.
 
-** TODO Robot Fight Goals
+Seal this at the end of the match.
+
+** Death Fight Goals
+At Ranges 1-2, your opponent has Ignore Armor.
+At Ranges 3-4, your opponent has Ignore Guard.
+
+When they would advance or retreat 2 or more, instead only move 2.
+Seal this at the end of the match.
+
+** Robot Fight Goals
+Your opponent has +2 Armor on all Strikes.
+You have +2 Speed on all Strikes.
+
+Your opponent reads card [[Passenger]] and plays it face-down in their effect area.
+They do not read it aloud.
+
+Seal this at the end of the match.
 * TODO Rewards
+** More Normals
+You really like that attack don't you? It's bexome a bit of a staple.
+At the end of this match, you may swap out of your deck 1 normal card of your choice in order to have a
+3rd of the normal you have just used.
+
+** Passenger
+As an action you may flip this card face-up. If you do, read the following:
+The passenger in the side seat tries to get back control of the car, and grabs the steering wheel.
+
+As an action, spend 1 force to move Molly is moved up to 2 spaces, the regain your action. The first time
+this action is used, Molly loses their +2 Speed.
+
+** Employee
+This card cannot share a space with your opponent, but can share a space with your cards.
+At the end of each of your turns, this card Closes 1, and then if it is at Range 1,
+your opponent takes 1 damage.
+
+During a Strike, if your opponent's attack would deal at least 1 damage to this character,
+it is removed from the board, and your opponent can select another target for their attack.
+
 ** Enemy Mailman
 You are a mailman. You were only delivering another letter when you hear a unearthly wail from behind you and only can assume this was another dog not properly leashed. You've had enough! Let your fists fly!
 
@@ -515,7 +570,7 @@ This house and the surrounded forest has always had an ominous feel to it and yo
 (Role)
 For every 2 cards in your Gauge, you gain +1 Power when wild-swinging.
 
-** TODO Enemy Kid
+** Enemy Kid
 It should be a grown-up's job to deliver notices, but everyone old enough is too leery of the house deep in the forest to actually go near it. This notice has been waiting to be posted for weeks. When your parents weren't letting you go to a friend's party because it was going to be happening late during a weekday, you decided to show you were more of an adult than them by doing something they weren't brave enough for.
 
 You didn't expect the house to actually be so creepy, or to feel like you're freezing up as you hear a gasp behind you turn into a full on scream. You'll show them you're not scared though, en garde!
@@ -570,9 +625,11 @@ people buy houses for this much.
 
 ** TODO Three Hundred Dollars
 This one exists if you got ripped off
-** TODO Has Gem Brooch
+** Has Gem Brooch
+Radiates with a relaxing energy. Does nothing.
+
 ** TODO Reaper Ally
-In future games, even if you reset the characters othewise, you may start iwth this card in your effect area.
+In future games, even if you reset the characters othewise, you may start with this card in your effect area.
 If you do so, Reveal cards in bag X. (This is a new character card or two, to make them a puppet character.
 Origin of attacks is reaper if max range is 3 or less. Effects that move, push or pull can be declared against either
 Molly or Reaper, even if actions otherwise affect the other.)
@@ -580,11 +637,18 @@ Molly or Reaper, even if actions otherwise affect the other.)
 ** Ending
 You have completed the story. You may set back up the deck again by returning all mystery cards to the mystery deck and resetting molly to her
 original cards, or you may decide to continue playing fights with your current Molly deck.
-** TODO Undercover Trainer
+** Undercover Trainer
 It's like they don't notice you've already met them once. You're pretty confident
 you know their tricks this time, and they won't be ready as long as you stay undercover.
+
+Before: You may Push up to 1.
 
 Whenever you have the option to use your Role card, you may choose not to. If you do use your Role card,
 this card is sealed.
 
 ** TODO Papers
+** Astral
+There's something about this environment. Maybe all the flourescent lighting helps shape it as a natural
+ley-line? You feel a new ability rise up in you.
+
+You may add an Astral Heat to your character from an existing one. If you already have an Astral Heat you may replace it.
