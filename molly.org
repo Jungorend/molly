@@ -619,12 +619,16 @@ Remove both "The Fast Mixup" cards from your deck and replace them with the cont
 With the extra money you found, you buy some nice cloth you found at a vendor on the way. It's the color
 of ebony darkness, just the way you like it.
 
-** TODO Five Hundred Dollars
+** Five Hundred Dollars
 That's a lot of money! Or at least it was last time you checked. You remember seeing
-people buy houses for this much.
+people buy houses for this much. You can put it up your sleeves to shoot out in a money funnel.
+If you had sleeves you could.
+
+When setting an attack, you may seal this card in order to gain +0~1 Range.
+If you do, Reveal card [[Three Hundred Dollars]]
 
 ** TODO Three Hundred Dollars
-This one exists if you got ripped off
+Maybe it'll be enough?
 ** Has Gem Brooch
 Radiates with a relaxing energy. Does nothing.
 
@@ -646,7 +650,8 @@ Before: You may Push up to 1.
 Whenever you have the option to use your Role card, you may choose not to. If you do use your Role card,
 this card is sealed.
 
-** TODO Papers
+** Papers
+You haven't had a chance to read these yet but they look important.
 ** Astral
 There's something about this environment. Maybe all the flourescent lighting helps shape it as a natural
 ley-line? You feel a new ability rise up in you.
